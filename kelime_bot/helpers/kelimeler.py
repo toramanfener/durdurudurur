@@ -100,7 +100,7 @@ kelimeler = ["güzel ","bilgi ","sorun","sağlamak ","bırakmak","zaman","su","y
              'şimşek', 'doymak', 'bağirmak', 'salmak', 'yağmur,' 'balyoz', 'yapboz', 'sahip','aşk', 'aşıkolmak', 
              'süzmek', 'acıkmak', 'acımak', 'merhamet', 'vicdan', 'kavram', 'terim', 'sezgi', 'densiz',
              'bencil', 'hayvan', 'köpek', 'döşemek','sözel', 'tüzük', 'küslük', 'muhakame', 'mahkeme', 'sanık',
-             'koala', 'panda', 'üzmek', 'kız', 'centilmen', 'kadın', 'erkek', 'film', 'dizi', 'yapım', 'bozuk,
+             'koala', 'panda', 'üzmek', 'kız', 'centilmen', 'kadın', 'erkek', 'film', 'dizi', 'yapım', 'bozuk'
              ]
 
 
