@@ -21,7 +21,7 @@ async def passs(c:Client, m:Message):
     if aktif:
         if oyun[m.chat.id]["pass"] < 3:
             oyun[m.chat.id]["pass"] += 1 
-            await c.send_message(m.chat.id,f"❗ Toplam 3 geçiş hakkınız var!\n➡️ Kelime Geçişi çıktı !\n✏️ Doğru kelime : **<code>{oyun[m.chat.id]['kelime']}</code>**")
+            await c.send_message(m.chat.id,f"❗ Toplam 3 geçiş hakkınız var!\n➡️ Kelime Geçişi Hakkı Kullanıldı !\n✏️ Doğru kelime : **<code>{oyun[m.chat.id]['kelime']}</code>**")
             
             oyun[m.chat.id]["kelime"] = kelime_sec()
             oyun[m.chat.id]["aktif"] = True
@@ -45,6 +45,6 @@ async def passs(c:Client, m:Message):
             await c.send_message(m.chat.id, text)
             
         else:
-            await c.send_message(m.chat.id, f"<code>**❗ Geçiş Doğru Kaydedildi! </code> \n Oyunu durdurmak için yazıp /cancel durdurabilirsiniz✍🏻**")
+            await c.send_message(m.chat.id, f"<code>**❗ Geçiş Hakkınız Kalmadı </code> \n Lütfen kelimeyi tahmin etmeye çalışın.✍️**")
     else:
         await m.reply(f"❗ **Grubumuzda aktif oyun bulunmamaktadır!\n Yeni bir oyuna başlamak için /game yazabilirsiniz✍🏻**")
