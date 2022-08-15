@@ -95,7 +95,12 @@ kelimeler = ["güzel ","bilgi ","sorun","sağlamak ","bırakmak","zaman","su","y
              'paşa', 'sıcaklık', 'tamam', 'güven', 'marka', 'yaprak', 'yarar', 'yayılmak', 'akmak', 'çizmek', 'düşünülmek',
              'gönül', 'hayal', 'ilerlemek', 'şarap', 'yukarıda', 'altın', 'düzenlemek', 'satınalmak', 'sunulmak', 'temiz',
              'vitamin', 'ek', 'geç', 'hareketetmek', 'yumurta', 'aşırı', 'eylem', 'istenmek', 'kesim', 'kriz', 'birim',
-             'kapanmak'
+             'kapanmak', 'yatak', 'baza', 'kil', 'kir','sır', 'üşümek', 'dürüst', 'yaşam', 'paşa', 'kol','lastik', 'balistik', 'salça', 'kalça', 'salsa', 'taşra', 'kola', 
+             'ayran', 'gazoz', 'yargı', 'avukat', 'sol', 'toprak', 'polis', 'asker','vatan', 'sağ', 'dağ', 'çakmak', 'mühendis', 
+             'şimşek', 'doymak', 'bağirmak', 'salmak', 'yağmur,' 'balyoz', 'yapboz', 'sahip','aşk', 'aşıkolmak', 
+             'süzmek', 'acıkmak', 'acımak', 'merhamet', 'vicdan', 'kavram', 'terim', 'sezgi', 'densiz',
+             'bencil', 'hayvan', 'köpek', 'döşemek','sözel', 'tüzük', 'küslük', 'muhakame', 'mahkeme', 'sanık',
+             'koala', 'panda', 'üzmek', 'kız', 'centilmen', 'kadın', 'erkek', 'film', 'dizi', 'yapım', 'bozuk,
              ]
 
 
