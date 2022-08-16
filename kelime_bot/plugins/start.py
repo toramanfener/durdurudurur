@@ -7,7 +7,7 @@ from kelime_bot.helpers.kelimeler import *
 from kelime_bot.helpers.keyboards import *
 from pyrogram.errors import FloodWait
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Message
-
+import asyncio
 
 keyboard = InlineKeyboardMarkup([
     [
