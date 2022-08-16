@@ -5,18 +5,18 @@ from pyrogram.types import InlineKeyboardButton
 
 keyboard = InlineKeyboardMarkup([
     [
-        InlineKeyboardButton("🎉  𝖡𝖾𝗇𝗂 𝖦𝗋𝗎𝖻𝖺 𝖤𝗄𝗅𝖾  🎉", url=f"http://t.me/kelimeturetmecebot?startgroup=new")
+        InlineKeyboardButton("🎮 𝖡𝖾𝗇𝗂 𝖦𝗋𝗎𝖻𝖺 𝖤𝗄𝗅𝖾 🎮", url=f"http://t.me/kelimeturetmecebot?startgroup=new")
     ],
     [
-        InlineKeyboardButton("🇹🇷  𝖮𝗐𝗇𝖾𝗋 ", url="t.me/kanakke"),
-        InlineKeyboardButton("✏️  𝖢𝗈𝗆𝗆𝖺𝗇𝖽𝗌 ", url="t.me/eglencebotlari"),
+        InlineKeyboardButton("🇹🇷 Sahip ", url="t.me/kanakke"),
+        InlineKeyboardButton("✏️ Eğlence Kanalımız ", url="t.me/eglencebotlari"),
     ]
 ])
 
 
 
 START = """
-• **Merhaba** 📖\n\n• **Ben Bir Oyun Botuyum** 🎮 \n\n• **Çeşitli oyunlar oynamak ve eğlenceli vakit geçirmek için benimle oynayabilirsin** ✍🏻 \n\n• **Benimle oynamak için beni bir gruba ekleyip yönetici yapman lazim** . 💭
+• **Merhaba** 📖\n\n• **Ben Bir Oyun Botuyum** 📝 \n\n• **Çeşitli oyunlar oynamak ve eğlenceli vakit geçirmek için benimle oynayabilirsin** ✍🏻 \n\n• **Benimle oynamak için beni bir gruba ekleyip yönetici yapman lazim** . 💭
 """
 
     
