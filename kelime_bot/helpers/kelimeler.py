@@ -95,7 +95,7 @@ kelimeler = ["güzel ","bilgi ","sorun","sağlamak ","bırakmak","zaman","su","y
              'paşa', 'sıcaklık', 'tamam', 'güven', 'marka', 'yaprak', 'yarar', 'yayılmak', 'akmak', 'çizmek', 'düşünülmek',
              'gönül', 'hayal', 'ilerlemek', 'şarap', 'yukarıda', 'altın', 'düzenlemek', 'satınalmak', 'sunulmak', 'temiz',
              'vitamin', 'ek', 'geç', 'hareketetmek', 'yumurta', 'aşırı', 'eylem', 'istenmek', 'kesim', 'kriz', 'birim',
-             'kapanmak', 'saklamak', 'saklamak', 'sehpa', 'vazo', 'vezir', 'bardak', 'içkk', 'halı', 'kilim', koltuk', 
+             'kapanmak', 'saklamak', 'saklamak', 'sehpa', 'vazo', 'vezir', 'bardak', 'içki', 'halı', 'kilim', 'koltuk', 
              'dikiş', 'dikim', 'perde', 'kişi', 'ev', 'boru', 'köpek', 'cam', 'pense', 'yatak', 'televizyon', 'sinema', 
              'işlek', 'tablo', 'fantastik', 'kadın', 'bebek', 'ezan', 'şehit', 'mikrop', 'bakteri', 'yazlık', 'isyan',
              'mezar', 'seslenmek', 'bagırmak', 'ağlamak', 'kitap', 'turuncu', 'müzik', 'yemek', 'havlu', 'bornoz', 'cam', 
