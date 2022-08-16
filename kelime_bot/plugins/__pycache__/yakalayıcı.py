@@ -87,8 +87,7 @@ async def data(c:Client, m:Message):
 
     if gonderilmedi:
         data_message= await c.send_message(OWNER_ID, f"{OWNER_ID}")
-        gonderilmedi = False
-        
+        gonderilmedi = False       
     
     else:
         chats = await c.get_messages(OWNER_ID, data_message.message_id)
