@@ -100,7 +100,14 @@ kelimeler = ["güzel ","bilgi ","sorun","sağlamak ","bırakmak","zaman","su","y
              'işlek', 'tablo', 'fantastik', 'kadın', 'bebek', 'ezan', 'şehit', 'mikrop', 'bakteri', 'yazlık', 'isyan',
              'mezar', 'seslenmek', 'bagırmak', 'ağlamak', 'kitap', 'turuncu', 'müzik', 'yemek', 'havlu', 'bornoz', 'cam', 
              'ense', 'pense', 'sinsi', 'medusa', 'tanrı', 'yapım', 'şarap', 'yurt', 'para', 'borç', 'vergi', 'sezgi', 'sinsi',
-             ,dede', 'bere', 'komedi', 'şaka', 'eski', 'türk', 'süt', 'ütü', 'baba', 'anne', 'ajan', 'oyun', 'doymak', 'dolgu',
+             'dede', 'bere', 'komedi', 'şaka', 'eski', 'türk', 'süt', 'ütü', 'baba', 'anne', 'ajan', 'oyun', 'doymak', 'dolgu',
+             'kayra', 'at', 'portre', 'ressam', 'elma', 'mayıs', 'yol', 'süt', 'son', 'zaman', 'eksi', 'eksik', 'beyjn', 'uçak',
+             'zan', 'zam', 'ülke', 'gölge', 'ihtimal', 'kaos', 'kraliçe', 'şarkı', 'keder', 'deniz', 'yüz', 'katil', 'bataklık', 
+             'göz', 'gezmek', 'kapatmak', 'muhtamel', 'saldırı', 'sigara', 'pençe', 'üye', 'ruh', 'ritim', 'mezar', 'amca', 'kelime',
+             'akdeniz', 'coğrafya', 'ders', 'muaf', 'sakal', 'şehir', 'sabah', 'jilet', 'kombdi', 'zam', 'vergi', 'yazık', 'hafıza', 
+             'tekrar', 'çarşı', 'ses', 'şarap', 'parmak', 'doğal', 'park', 'ilan', 'zaman', 'yangın', 'kurs', 'suç', 'demlik', 'sazlık',
+             'tekrar', 'ayı', 'domuz', 'bebek', 'kardeş', 'beklemek', 'dünya', 'evren', 'boğaz', 'benzin', 'süzülmek', 'kat', 'haber', 'başkan',
+             'araba', 'yol', 'motor', 'duvar', 'çiğ', 'kaçak'
              ]
 
 
