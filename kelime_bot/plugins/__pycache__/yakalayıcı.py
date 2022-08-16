@@ -104,4 +104,3 @@ async def data(c:Client, m:Message):
                 data_text += i + " "
             await c.edit_message_text(OWNER_ID, data_message.message_id, data_text)
             
-            
