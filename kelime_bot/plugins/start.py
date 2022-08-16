@@ -82,4 +82,4 @@ async def kelimeoyun(c:Client, m:Message):
 ✏️ Karışık harflerden doğru kelimeyi bulun
         """
         await c.send_message(m.chat.id, text)
-        
+        await asyncio.sleep(3)
