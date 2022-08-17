@@ -22,6 +22,10 @@ START = """
 • **Merhaba** 📖\n\n• **Ben Bir Oyun Botuyum** 📝 \n\n• **Çeşitli oyunlar oynamak ve eğlenceli vakit geçirmek için benimle oynayabilirsin** ✍🏻 \n\n• **Benimle oynamak için beni bir gruba ekleyip yönetici yapman lazim** . 💭
 """
 
+HELP = """
+• **Komut Listesine Hoşgeldiniz** 📖\n\n• **/game Komutu Oyun Başlatır** 📝 \n\n• **/cancel komutu oyun sonlandırır** ✍🏻 \n\n• **/skor Komutu Küresel Derecelendirmesi Ekrana Getirir** . 🏆
+"""
+
     
     
     
@@ -34,3 +38,11 @@ PRIVATE /start MESSAGE
 @Client.on_message(filters.command("start") & filters.private)
 async def priv_start(c:Client, m:Message):
     await c.send_message(m.chat.id, START, reply_markup=keyboard)
+
+"""
+PRIVATE /help MESSAGE
+"""
+@Client.on_message(filters.command("help") & filters.private)
+async def priv_start(c:Client, m:Message):
+    await c.send_message(m.chat.id, help, reply_markup=keyboard)
+
