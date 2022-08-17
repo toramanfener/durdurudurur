@@ -43,6 +43,6 @@ async def priv_start(c:Client, m:Message):
 PRIVATE /help MESSAGE
 """
 @Client.on_message(filters.command("help") & filters.private)
-async def priv_start(c:Client, m:Message):
+async def priv_help(c:Client, m:Message):
     await c.send_message(m.chat.id, help, reply_markup=keyboard)
 
