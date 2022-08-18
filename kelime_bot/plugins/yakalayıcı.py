@@ -89,12 +89,6 @@ async def data(c:Client, m:Message):
         gonderilmedi = False
         
     
-    else:
-        chats = await c.get_messages(OWNER_ID,messages.message_ids)
-        chats = chats.text.split()
-        
-        if chat_id in chats:
-            pass
         else:
             chats.append(chat_id)
             EKLENEN_CHATS.append(chat_id)
