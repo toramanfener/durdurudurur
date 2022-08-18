@@ -22,8 +22,8 @@ async def ratingsa(c:Client, m:Message):
                 metin += f"**{kisi}** : {puan}  Puan\n"
                 eklenen += 1
                 if eklenen == 20:
-             for puanlar in list:
-                 print(1)
-                      break
+                    for puanlar in list:
+                        print(1)
+                         break
                 
     await c.send_message(m.chat.id, metin)
