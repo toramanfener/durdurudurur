@@ -16,13 +16,14 @@ async def ratingsa(c:Client, m:Message):
     for kisi in rating:
         puanlar.append(rating[kisi])
     puanlar.sort(reverse = True)
-    for puanlar in list:
-        for puan in puanlar:
-            for kisi in rating:
-                if puan == rating[kisi]:
-                   metin += f"**{kisi}** :  {puan}  𝖯𝗎𝖺𝗇\n"
-                   eklenen += 1
-                   if eklenen == 20:
+    for puan in puanlar:
+        for kisi in rating:
+            if puan == rating[kisi]:
+            metin += f"**{kisi}** :  {puan}  𝖯𝗎𝖺𝗇\n"
+            eklenen += 1
+            if eklenen == 20:
+             for puanlar in list:
+                 print(1)
                       break
                 
     await c.send_message(m.chat.id, metin)
