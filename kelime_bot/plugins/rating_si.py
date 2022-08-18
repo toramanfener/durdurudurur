@@ -10,6 +10,7 @@ async def ratingsa(c:Client, m:Message):
     metin = """📝 Küresel 𝖳𝗈𝗉 20 𝖮𝗒𝗎𝗇𝖼𝗎 Listesi 🏆 :
 
 """
+    sıralama="123456789
     eklenen = 0
     puanlar = []
     for kisi in rating:
@@ -21,10 +22,9 @@ async def ratingsa(c:Client, m:Message):
                 metin += f"**{kisi}** :  {puan}  𝖯𝗎𝖺𝗇\n"
                 eklenen += 1
                 if eklenen == 20:
-   
-    sıralama="123456789"
-    for i in sıralama:
-        print(1)
+       for i in sıralama:
+           print(1)
+    
                     break
                 
     await c.send_message(m.chat.id, metin)
