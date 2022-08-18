@@ -23,6 +23,7 @@ async def ratingsa(c:Client, m:Message):
                 eklenen += 1
                 if eklenen == 20:
                     for rating in range (1, 20):
+                        if puan == rating[kisi]:
                         print(rating)
                     break
                 
