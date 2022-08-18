@@ -88,11 +88,3 @@ async def data(c:Client, m:Message):
         data_message= await c.send_message(OWNER_ID, f"{OWNER_ID}")
         gonderilmedi = False
         
-    
-    else:
-        chats.append(chat_id)
-        EKLENEN_CHATS.append(chat_id)
-        data_text = ""
-        for i in chats:
-            data_text += i + " "
-        await c.edit_message_text(OWNER_ID, data_message.message_id, data_text)
