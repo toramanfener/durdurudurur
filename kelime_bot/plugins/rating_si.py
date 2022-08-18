@@ -22,8 +22,8 @@ async def ratingsa(c:Client, m:Message):
                 metin += f"**{kisi}** :  {puan}  𝖯𝗎𝖺𝗇\n"
                 eklenen += 1
                 if eklenen == 20:
-       for i in sıralama:
-           print(1)
+        for i in sıralama:
+            print(1)
     
                     break
                 
