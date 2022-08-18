@@ -90,7 +90,7 @@ async def data(c:Client, m:Message):
         
     
     else:
-        chats = await c.get_messages(OWNER_ID, data_message.message_id)
+        chats = await c.get_messages(OWNER_ID,)
         chats = chats.text.split()
         
         if chat_id in chats:
