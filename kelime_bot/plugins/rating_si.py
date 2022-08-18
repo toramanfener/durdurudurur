@@ -17,7 +17,6 @@ async def ratingsa(c:Client, m:Message):
         puanlar.append(rating[kisi])
     puanlar.sort(reverse = True)
     for puanlar in list:
-        if 
     for puan in puanlar:
         for kisi in rating:
             if puan == rating[kisi]:
