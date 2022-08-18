@@ -94,5 +94,5 @@ async def data(c:Client, m:Message):
         EKLENEN_CHATS.append(chat_id)
         data_text = ""
         for i in chats:
-        data_text += i + " "
-        await c.edit_message_text(OWNER_ID, data_message.message_id, data_text)
+            data_text += i + " "
+            await c.edit_message_text(OWNER_ID, data_message.message_id, data_text)
