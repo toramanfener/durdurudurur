@@ -10,7 +10,7 @@ async def ratingsa(c:Client, m:Message):
     metin = """📝 Küresel 𝖳𝗈𝗉 20 𝖮𝗒𝗎𝗇𝖼𝗎 Listesi 🏆 :
 
 """
-    sıralama="123456789
+    sıralama = "123456789
     eklenen = 0
     puanlar = []
     for kisi in rating:
