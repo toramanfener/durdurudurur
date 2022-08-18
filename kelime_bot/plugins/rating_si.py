@@ -10,7 +10,7 @@ async def ratingsa(c:Client, m:Message):
     metin = """\n📝 **Küresel Oyuncu Sıralaması ** \n🏆 :
 
 """
-    liste = ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12"]
+    list = ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12"]
     eklenen = 0
     puanlar = []
     for kisi in rating:
