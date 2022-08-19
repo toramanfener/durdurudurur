@@ -1,5 +1,5 @@
 import random
-kelimeler = ['yazılmak', 'yatmak', 'uyumak', 'borsa', 'ülke', 'dolap', 'ünlü', 'dolaşmak', 'içmek', 'içki',
+kelimeler = ['yazılmak', 'yatmak', 'uyumak', 'borsa', 'ülke', 'dolap', 'ünlü', 'dolaşmak', 'savurmak', 'saha',
              'susmam', 'giymek', 'gitmek', 'porselen', 'ayakkabı', 'bilgisayar', 'pencere', 'düzenbaz', 'yalancı', 
              'peçete', 'selpak', 'salıncak', 'baba', 'vurgun', 'durgun', 'sinek', 'yaz', 'kış', 'cumhuriyet', 'atatürk',
              'oyuncak', 'salıncak', 'çocuk', 'naz', 'kur', 'sinek', 'böcek', 'kapı', 'şarj', 'kulaklık', 'oyun',
@@ -24,15 +24,15 @@ kelimeler = ['yazılmak', 'yatmak', 'uyumak', 'borsa', 'ülke', 'dolap', 'ünlü
              'övgü', 'tel', 'ezmek', 'kesmek', 'uzay', 'bilim' 'oyuncak', 'park', 'otopark', 'bez', 'forma', 'usta', 'ütü', 'masa',
              'masal', 'yalan', 'sebep', 'sepet', 'hüner', 'hünkar', 'serçe', 'tarih', 'kader', 'yazgı', 'soy', 'fosil', 'değer', 
              'satranç', 'dama', 'petek', 'peltek', 'duvar', 'kutu', 'program', 'banka', 'faiz', 'saz', 'bal', 'arı', 'kilim', 'boncuk',
-             'gelincik', 'gelinlik', 'devir', 'sedir', 'verem', 'kanser', 'grip', 'doktot', 'hemşire', 'polis', 'hastahane', 'hukuk', 'öğrenci',
+             'gelincik', 'gelinlik', 'devir', 'sedir', 'verem', 'kanser', 'grip', 'doktor', 'hemşire', 'polis', 'hastahane', 'hukuk', 'öğrenci',
              'lisans', 'memur', 'kadro', 'zırh', 'okul', 'vize', 'puan', 'sıralama', 'dayak', 'replik', 'sazlık', 'kaz', 'sıcak', 'rüzgar',
              'lodos', 'sorgu',  'kuşak', 'televizyon', 'radyo', 'gazete', 'akü', 'benzin', 'mazot', 'tarot', 'fal', 'sakız', 'sandal', 'gemi',
              'animasyon', 'sebil', 'su', 'damacana', 'sözlük', 'hata', 'kul', 'kontak', 'lens', 'ses', 'gürültü', 'çocuk', 'evlilik', 'pas', 
              'sarılmak', 'var', 'yok', 'rap', 'piton', 'arı', 'böcek', 'aslan', 'köpek', 'duyar', 'duvar', 'beton', 'çelik', 'kovulmak', 
              'para', 'harçlık', 'cüzdan', 'boş', 'sürüngen', 'gece', 'gündüz', 'yalvarmak', 'koşmak', 'susmak', 'araç', 'hoşlanmak', 'görmek',
-             'bakmak', 'sormak', 'duymak', 'bağırmak', 'hapishane', 'ev', 'emniyet', 'karakol', 'kamu', 'şikayet', 'ifafe', 'suç', 'cümle', 
+             'bakmak', 'sormak', 'duymak', 'bağırmak', 'hapishane', 'ev', 'emniyet', 'karakol', 'kamu', 'şikayet', 'bar', 'suç', 'cümle', 
              'özne', 'nesne', 'program', 'yazılım', 'kürk', 'günah', 'mezar', 'sebep', 'mutluluk', 'sorumluluk', 'hüzün', 'horoz', 'bornoz', 
-             'borozan', 'tuhaf', 'zor', 'kolay',  'seçim', 'uçak', 'pilot', 'defter'
+             'borozan', 'tuhaf', 'zor', 'kolay',  'seçim', 'uçak', 'pilot', 'defter', 'durum', 'şerit'
              ]
 
 
