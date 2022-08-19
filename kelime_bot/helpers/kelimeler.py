@@ -33,7 +33,7 @@ kelimeler = ['yazılmak', 'yatmak', 'uyumak', 'borsa', 'ülke', 'dolap', 'ünlü
              'bakmak', 'sormak', 'duymak', 'bağırmak', 'hapishane', 'ev', 'emniyet', 'karakol', 'kamu', 'şikayet', 'bar', 'suç', 'cümle', 
              'özne', 'nesne', 'program', 'yazılım', 'kürk', 'günah', 'mezar', 'sebep', 'mutluluk', 'sorumluluk', 'hüzün', 'horoz', 'bornoz', 
              'borozan', 'tuhaf', 'zor', 'kolay',  'seçim', 'uçak', 'pilot', 'defter', 'durum', 'şerit', 'meslek', 'tepki', 'tebrik', 'taş', 'temizlik', 
-             'aşçı', 'ayıp', 'kış', 'şehir', 'özlem', 'hedef', 'farkındalık', 'sağlık'
+             'aşçı', 'ayıp', 'kış', 'şehir', 'özlem', 'hedef', 'farkındalık', 'sağlık', 'anıtkabir'
              ]
 
 
