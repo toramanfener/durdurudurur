@@ -28,7 +28,7 @@ kelimeler = ['yazılmak', 'yatmak', 'uyumak', 'borsa', 'ülke', 'dolap', 'ünlü
              'lisans', 'memur', 'kadro', 'zırh', 'okul', 'vize', 'puan', 'sıralama', 'dayak', 'replik', 'sazlık', 'kaz', 'sıcak', 'rüzgar',
              'lodos', 'sorgu',  'kuşak', 'televizyon', 'radyo', 'gazete', 'akü', 'benzin', 'mazot', 'tarot', 'fal', 'sakız', 'sandal', 'gemi',
              'animasyon', 'sebil', 'su', 'damacana', 'sözlük', 'hata', 'kul', 'kontak', 'lens', 'ses', 'gürültü', 'çocuk', 'evlilik', 'pas', 
-             'sarılmak', 'var', 'yok', 'rap', damacana', 'arı', 'böcek', 'aslan', 'köpek', 'duyar', 'duvar', 'beton', 'çelik', 'kovulmak', 
+             'sarılmak', 'var', 'yok', 'rap', 'piton', 'arı', 'böcek', 'aslan', 'köpek', 'duyar', 'duvar', 'beton', 'çelik', 'kovulmak', 
              'para', 'harçlık', 'cüzdan', 'boş', 'sürüngen', 'gece', 'gündüz', 'yalvarmak', 'koşmak', 'susmak', 'araç', 'hoşlanmak', 'görmek',
              'bakmak', 'sormak', 'duymak', 'bağırmak', 'hapishane', 'ev', 'emniyet', 'karakol', 'kamu', 'şikayet', 'ifafe', 'suç', 'cümle', 
              'özne', 'nesne', 'program', 'yazılım', 'kürk', 'günah', 'mezar', 'sebep', 'mutluluk', 'sorumluluk', 'hüzün', 'horoz', 'bornoz', 
