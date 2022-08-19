@@ -3,7 +3,7 @@ kelimeler = ['yazılmak', 'yatmak', 'uyumak', 'borsa', 'ülke', 'dolap', 'ünlü
              'susmak', 'giymek', 'gitmek', 'porselen', 'ayakkabı', 'bilgisayar', 'pencere', 'düzenbaz', 'yalancı', 
              'peçete', 'selpak', 'salıncak', 'baba', 'vurgun', 'durgun', 'sinek', 'yaz', 'kış', 'cumhuriyet', 'atatürk',
              'oyuncak', 'salıncak', 'çocuk', 'naz', 'kur', 'sinek', 'böcek', 'kapı', 'şarj', 'kulaklık', 'oyun',
-             'ressam', 'film', 'dizi', 'müzik', 'ayna', 'firma', 'sevgi', 'ask', 'duygusal', 'feminist', 'aldatmak', 
+             'ressam', 'film', 'dizi', 'müzik', 'ayna', 'firma', 'sevgi', 'aşk', 'duygusal', 'feminist', 'aldatmak', 
              'kelime', 'süzmek', 'sürgün', 'kitap', 'öğretmen', 'polis', 'öğrenmek', 'savcı', 'hakim', 'tepki', 
              'asker', 'baba', 'din', 'anne', 'ruh', 'bal', 'arı', 'güzel', 'çirkin', 'define', 'hazine', 'suçlu', 'mahkeme',
              'sanık', 'yazılım', 'korumak', 'dümen', 'gülmek', 'at', 'spor', 'dil', 'müşteki', 'müşteri', 'hak', 'hukuk',
@@ -12,7 +12,7 @@ kelimeler = ['yazılmak', 'yatmak', 'uyumak', 'borsa', 'ülke', 'dolap', 'ünlü
              'dar', 'geniş', 'bolluk', 'sol', 'sağ', 'müzisyen', 'sanatçı', 'karınca', 'hayvan', 'korumak', 'yük', 'yükümlülük',
              'sülük', 'makyaj', 'taraf', 'futbol', 'petek', 'doğal', 'gaz', 'elektrik', 'fatura', 'kod', 'oyun', 'telegram', 
              'yastık', 'baza', 'taraf', 'taraftar', 'dolar', 'vadi', 'havlu', 'motivasyon', 'aksiyon', 'şirket', 'sahip', 
-             'tarih', 'bozgun', 'tok', 'aç', 'kahvaktı', 'lamba', 'bilgi', 'almak', 'satmak', 'çiftçi', 'horlamak', 
+             'tarih', 'bozgun', 'tok', 'aç', 'kahvaltı', 'lamba', 'bilgi', 'almak', 'satmak', 'çiftçi', 'horlamak', 
              'kulaklık', 'ses', 'göz', 'kulak', 'ayak', 'bacak', 'hayat', 'doğal', 'doğa', 'hava', 'oksijen', 'temiz', 
              'pis', 'ter', 'koku', 'terlik', 'yorgan', 'kılıf', 'tabanca', 'kın', 'kılıç', 'özgüven', 'tavan', 'taban', 
              'avukat', 'avutmak', 'hakime', 'radyo', 'popüler', 'resmi', 'dilekçe', 'şikayet', 'vilayet', 'tohum', 'torun',
@@ -33,7 +33,16 @@ kelimeler = ['yazılmak', 'yatmak', 'uyumak', 'borsa', 'ülke', 'dolap', 'ünlü
              'bakmak', 'sormak', 'duymak', 'bağırmak', 'hapishane', 'ev', 'emniyet', 'karakol', 'kamu', 'şikayet', 'bar', 'suç', 'cümle', 
              'özne', 'nesne', 'program', 'yazılım', 'kürk', 'günah', 'mezar', 'sebep', 'mutluluk', 'sorumluluk', 'hüzün', 'horoz', 'bornoz', 
              'borozan', 'tuhaf', 'zor', 'kolay',  'seçim', 'uçak', 'pilot', 'defter', 'durum', 'şerit', 'meslek', 'tepki', 'tebrik', 'taş', 'temizlik', 
-             'aşçı', 'ayıp', 'kış', 'şehir', 'özlem', 'hedef', 'farkındalık', 'sağlık', 'anıtkabir'
+             'aşçı', 'ayıp', 'kış', 'şehir', 'özlem', 'hedef', 'farkındalık', 'sağlık', 'anıtkabir',
+             'harf', 'kalamar', 'çorba', 'pilav', 'motor', 'tarif', 'kargo', 'defne', 'şef', 'topuk', 
+             'hasta',  'durum', 'dava', 'davalı', 'haşlama', 'ciğer', 'tava', 'kuş', 'dolma', 'balık',             'yaprak', 'beter', 'misafir', 'peynir',  'saat', 'pişmek', 'yumurta', 'denge', 'terbiye', 
+             'kürdan', 'servis'  'tabak',  'kıble', 'alarm', 'yabancı', 'bulantı', 'kasap', 'tartı', 
+             'alarm',  'para', 'malzeme', 'sorgu', 'ifade', 'panik', 'çökmek', 'kaşık',  'bozuk',  'balık', 'uygulama', 'sohbet',  'dakika', 'marş',
+             'salata', 'saniye', 'süre', 'sultan', 'osmanlı',  'başarısız' 'final', 'izlemek', 'toparlamak', 'vurmak', 'ego', 'gökyüzü', 'huzur', 'hızlı', 'şerit', 'kelle', 'telafi',  'ödül',
+             'hediye',  'hamile', 'astım' 'ilgi', 'memleket', 'hemşeri', 'laf', 'saf', 'baş', 'ağrımak', 'bel', 'bacak', 'beyin', 'terfi', 'göz', 'temizlemek', 'almak', 'isyan', 'ergen',
+             'kokarca', 'pişmek', 'rüya', 'kötü',  'hakaret', 'dövmek', 'psikopat', 'matematik',
+             'anne', 'kardeş', 'gezmek', 'sürüngen',  'gözlük', 'bela', 'dua', 'hurafe', 'mezar', 'hafta', 'ev', 'sehpa', 'nazar', 'inanç', 
+             'dağılmak', 'hafta', 'maşallah', 'kokla', 'devir', 'taksit', 'muhasebe', 'yara'
              ]
 
 
