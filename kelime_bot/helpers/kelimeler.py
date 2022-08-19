@@ -7,12 +7,12 @@ kelimeler = ['yazılmak', 'yatmak', 'uyumak', 'borsa', 'ülke', 'dolap', 'ünlü
              'kelime', 'süzmek', 'sürgün', 'kitap', 'öğretmen', 'polis', 'öğrenmek', 'savcı', 'hakim', 'tepki', 
              'asker', 'baba', 'din', 'anne', 'ruh', 'bal', 'arı', 'güzel', 'çirkin', 'define', 'hazine', 'suçlu', 'mahkeme',
              'sanık', 'yazılım', 'korumak', 'dümen', 'gülmek', 'at', 'spor', 'dil', 'müşteki', 'müşteri', 'hak', 'hukuk',
-             'mahkeme', 'yasal', 'yol', 'ölüm', 'yalan', 'gezegen', 'rütbe', 'evren', 'mars', 'dünya', 'insan', 'evlat',
+             'mahkeme', 'yasal', 'yol', 'ölüm', 'yalan', 'gezegen', 'rütbe', 'evren', 'mars', 'dünya', 'durgun', 'evlat',
              'karakter', 'kötu', 'birlik', 'birim', 'sevgi', 'etki', 'tepki', 'coşmak', 'satmak', 'bahçe', 'vergi', 'zam',
              'dar', 'geniş', 'bolluk', 'sol', 'sağ', 'müzisyen', 'sanatçı', 'karınca', 'hayvan', 'korumak', 'yük', 'yükümlülük',
              'sülük', 'makyaj', 'taraf', 'futbol', 'petek', 'doğal', 'gaz', 'elektrik', 'fatura', 'kod', 'oyun', 'telegram', 
              'yastık', 'baza', 'taraf', 'taraftar', 'dolar', 'vadi', 'havlu', 'motivasyon', 'aksiyon', 'şirket', 'sahip', 
-             'tarih', 'bozgun', 'tok', 'aç', 'kahvaktı', 'lamba', 'irdelemek', 'almak', 'satmak', 'çiftçi', 'horlamak', 
+             'tarih', 'bozgun', 'tok', 'aç', 'kahvaktı', 'lamba', 'bilgi', 'almak', 'satmak', 'çiftçi', 'horlamak', 
              'kulaklık', 'ses', 'göz', 'kulak', 'ayak', 'bacak', 'hayat', 'doğal', 'doğa', 'hava', 'oksijen', 'temiz', 
              'pis', 'ter', 'koku', 'terlik', 'yorgan', 'kılıf', 'tabanca', 'kın', 'kılıç', 'özgüven', 'tavan', 'taban', 
              'avukat', 'avutmak', 'hakime', 'radyo', 'popüler', 'resmi', 'dilekçe', 'şikayet', 'vilayet', 'tohum', 'torun',
@@ -32,7 +32,8 @@ kelimeler = ['yazılmak', 'yatmak', 'uyumak', 'borsa', 'ülke', 'dolap', 'ünlü
              'para', 'harçlık', 'cüzdan', 'boş', 'sürüngen', 'gece', 'gündüz', 'yalvarmak', 'koşmak', 'susmak', 'araç', 'hoşlanmak', 'görmek',
              'bakmak', 'sormak', 'duymak', 'bağırmak', 'hapishane', 'ev', 'emniyet', 'karakol', 'kamu', 'şikayet', 'bar', 'suç', 'cümle', 
              'özne', 'nesne', 'program', 'yazılım', 'kürk', 'günah', 'mezar', 'sebep', 'mutluluk', 'sorumluluk', 'hüzün', 'horoz', 'bornoz', 
-             'borozan', 'tuhaf', 'zor', 'kolay',  'seçim', 'uçak', 'pilot', 'defter', 'durum', 'şerit'
+             'borozan', 'tuhaf', 'zor', 'kolay',  'seçim', 'uçak', 'pilot', 'defter', 'durum', 'şerit', 'meslek', 'tepki', 'tebrik', 'taş', 'temizlik', 
+             'aşçı', 'ayıp', 'kış', 'şehir', 'özlem', 'hedef', 'farkındalık', 'sağlık'
              ]
 
 
