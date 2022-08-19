@@ -14,7 +14,7 @@ kelimeler = ['yazılmak', 'yatmak', 'uyumak', 'borsa', 'ülke', 'dolap', 'ünlü
              'yastık', 'baza', 'taraf', 'taraftar', 'dolar', 'vadi', 'havlu', 'motivasyon', 'aksiyon', 'şirket', 'sahip', 
              'tarih', 'bozgun', 'tok', 'aç', 'kahvaktı', 'lamba', 'irdelemek', 'almak', 'satmak', 'çiftçi', 'horlamak', 
              'kulaklık', 'ses', 'göz', 'kulak', 'ayak', 'bacak', 'hayat', 'doğal', 'doğa', 'hava', 'oksijen', 'temiz', 
-             'pis', 'ter', 'koku', 'terlik', 'yorgan', 'kılıf', 'tabanca', 'kın', 'kılıç', 'özgüven', 'tavan', taban', 
+             'pis', 'ter', 'koku', 'terlik', 'yorgan', 'kılıf', 'tabanca', 'kın', 'kılıç', 'özgüven', 'tavan', 'taban', 
              'avukat', 'avutmak', 'hakime', 'radyo', 'popüler', 'resmi', 'dilekçe', 'şikayet', 'vilayet', 'tohum', 'torun',
              'osmanlı', 'boğulmak', 'soyulmak', 'devir', 'teslim', 'kesin', 'villa', 'konut', 'proje', 'onay', 'tümen', 'tüzük',
              'üniversite', 'soba', 'boru', 'kullanmak', 'araba', 'marka', 'makyaj', 'trip', 'sirk', 'red', 'kalıp', 'kalp', 
