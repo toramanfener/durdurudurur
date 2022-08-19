@@ -20,7 +20,14 @@ kelimeler = ['yazılmak', 'yatmak', 'uyumak', 'borsa', 'ülke', 'dolap', 'ünlü
              'üniversite', 'soba', 'boru', 'kullanmak', 'araba', 'marka', 'makyaj', 'trip', 'sirk', 'red', 'kalıp', 'kalp', 
              'cerrah', 'selamet', 'hoşlanmak', 'küsmek', 'gece', 'gündüz', 'düz', 'yokuş', 'tırmanmak', 'alınmak', 'kurulmak', 
              'sevilmek', 'pantalon', 'elbise', 'polar', 'sofra', 'aile', 'keyif', 'komutan', 'kumandan', 'burjuva', 'balıklama', 
-             'sayıklamak', 'hayıflanmak', 'telefon', 'zayıflamak'
+             'sayıklamak', 'hayıflanmak', 'telefon', 'zayıflamak', 'günes', 'düzen', 'rüzgar', 'halı', 'düşman', 'sıralama', 
+             'övgü', 'tel', 'ezmek', 'kesmek', 'uzay', 'bilim' 'oyuncak', 'park', 'otopark', 'bez', 'forma', 'usta', 'ütü', 'masa',
+             'masal', 'yalan', 'sebep', 'sepet', 'hüner', 'hünkar', 'serçe', 'tarih', 'kader', 'yazgı', 'soy', 'fosil', 'değer', 
+             'satranç', 'dama', 'petek', 'peltek', 'duvar', 'kutu', 'program', 'banka', 'faiz', 'saz', 'bal', 'arı', 'kilim', 'boncuk',
+             'gelincik', 'gelinlik', 'devir', 'sedir', 'verem', 'kanser', 'grip', 'doktot', 'hemşire', 'polis', 'hastahane', 'hukuk', 'öğrenci',
+             'lisans', 'memur', 'kadro', 'zırh', 'okul', 'vize', 'puan', 'sıralama', 'dayak', 'replik', 'sazlık', 'kaz', 'sıcak', 'rüzgar',
+             'lodos', 'sorgu',  'kuşak', 'televizyon', 'radyo', 'gazete', 'akü', 'benzin', 'mazot', 'tarot', 'fal', 'sakız', 'sandal', 'gemi',
+             'animasyon', 'sebil', 'su', 'damacana', 'sözlük', 'hata', 'kul', 'kontak', 'lens', 'ses', 'gürültü', 'çocuk', 'evlilik'
              ]
 
 
