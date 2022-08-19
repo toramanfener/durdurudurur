@@ -1,6 +1,6 @@
 import random
 kelimeler = ['yazılmak', 'yatmak', 'uyumak', 'borsa', 'ülke', 'dolap', 'ünlü', 'dolaşmak', 'savurmak', 'saha',
-             'susmam', 'giymek', 'gitmek', 'porselen', 'ayakkabı', 'bilgisayar', 'pencere', 'düzenbaz', 'yalancı', 
+             'susmak', 'giymek', 'gitmek', 'porselen', 'ayakkabı', 'bilgisayar', 'pencere', 'düzenbaz', 'yalancı', 
              'peçete', 'selpak', 'salıncak', 'baba', 'vurgun', 'durgun', 'sinek', 'yaz', 'kış', 'cumhuriyet', 'atatürk',
              'oyuncak', 'salıncak', 'çocuk', 'naz', 'kur', 'sinek', 'böcek', 'kapı', 'şarj', 'kulaklık', 'oyun',
              'ressam', 'film', 'dizi', 'müzik', 'ayna', 'firma', 'sevgi', 'ask', 'duygusal', 'feminist', 'aldatmak', 
@@ -8,7 +8,7 @@ kelimeler = ['yazılmak', 'yatmak', 'uyumak', 'borsa', 'ülke', 'dolap', 'ünlü
              'asker', 'baba', 'din', 'anne', 'ruh', 'bal', 'arı', 'güzel', 'çirkin', 'define', 'hazine', 'suçlu', 'mahkeme',
              'sanık', 'yazılım', 'korumak', 'dümen', 'gülmek', 'at', 'spor', 'dil', 'müşteki', 'müşteri', 'hak', 'hukuk',
              'mahkeme', 'yasal', 'yol', 'ölüm', 'yalan', 'gezegen', 'rütbe', 'evren', 'mars', 'dünya', 'durgun', 'evlat',
-             'karakter', 'kötu', 'birlik', 'birim', 'sevgi', 'etki', 'tepki', 'coşmak', 'satmak', 'bahçe', 'vergi', 'zam',
+             'karakter', 'kötü', 'birlik', 'birim', 'sevgi', 'etki', 'tepki', 'coşmak', 'satmak', 'bahçe', 'vergi', 'zam',
              'dar', 'geniş', 'bolluk', 'sol', 'sağ', 'müzisyen', 'sanatçı', 'karınca', 'hayvan', 'korumak', 'yük', 'yükümlülük',
              'sülük', 'makyaj', 'taraf', 'futbol', 'petek', 'doğal', 'gaz', 'elektrik', 'fatura', 'kod', 'oyun', 'telegram', 
              'yastık', 'baza', 'taraf', 'taraftar', 'dolar', 'vadi', 'havlu', 'motivasyon', 'aksiyon', 'şirket', 'sahip', 
