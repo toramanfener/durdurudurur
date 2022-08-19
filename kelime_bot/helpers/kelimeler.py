@@ -8,7 +8,7 @@ kelimeler = ['yazılmak', 'yatmak', 'uyumak', 'borsa', 'ülke', 'dolap', 'ünlü
              'asker', 'baba', 'din', 'anne', 'ruh', 'bal', 'arı', 'güzel', 'çirkin', 'define', 'hazine', 'suçlu', 'mahkeme',
              'sanık', 'yazılım', 'korumak', 'dümen', 'gülmek', 'at', 'spor', 'dil', 'müşteki', 'müşteri', 'hak', 'hukuk',
              'mahkeme', 'yasal', 'yol', 'ölüm', 'yalan', 'gezegen', 'rütbe', 'evren', 'mars', 'dünya', 'insan', 'evlat',
-             'karakter', kotu', 'birlik', 'birim', 'sevgi', 'etki', 'tepki', 'coşmak', 'satmak', 'bahçe', 'vergi', 'zam',
+             'karakter', 'kötu', 'birlik', 'birim', 'sevgi', 'etki', 'tepki', 'coşmak', 'satmak', 'bahçe', 'vergi', 'zam',
              'dar', 'geniş', 'bolluk', 'sol', 'sağ', 'müzisyen', 'sanatçı', 'karınca', 'hayvan', 'korumak', 'yük', 'yükümlülük',
              'sülük', 'makyaj', 'taraf', 'futbol', 'petek', 'doğal', 'gaz', 'elektrik', 'fatura', 'kod', 'oyun', 'telegram', 
              'yastık', 'baza', 'taraf', 'taraftar', 'dolar', 'vadi', 'havlu', 'motivasyon', 'aksiyon', 'şirket', 'sahip', 
