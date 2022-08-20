@@ -42,8 +42,8 @@ kelimeler = ['yazılmak', 'yatmak', 'uyumak', 'borsa', 'ülke', 'dolap', 'ünlü
              'hediye',  'hamile', 'astım' 'ilgi', 'memleket', 'hemşeri', 'laf', 'saf', 'baş', 'ağrımak', 'bel', 'bacak', 'beyin', 'terfi', 'göz', 'temizlemek', 'almak', 'isyan', 'ergen',
              'kokarca', 'pişmek', 'rüya', 'kötü',  'hakaret', 'dövmek', 'psikopat', 'matematik',
              'anne', 'kardeş', 'gezmek', 'sürüngen',  'gözlük', 'bela', 'dua', 'hurafe', 'mezar', 'hafta', 'ev', 'sehpa', 'nazar', 'inanç', 
-             'dağılmak', 'hafta', 'maşallah', 'kokla', 'devir', 'taksit', 'muhasebe', 'yara'
-             ]
+             'dağılmak', 'hafta', 'maşallah', 'kokla', 'devir', 'taksit', 'muhasebe', 'yara']
+             
 
 
 def kelime_sec():
