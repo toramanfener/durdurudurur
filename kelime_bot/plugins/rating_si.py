@@ -22,4 +22,5 @@ async def ratingsa(c:Client, m:Message):
                 eklenen += 1
                 if eklenen == 20:
                    for metin in range (1,21):
+
   await c.send_message(m.chat.id, metin)
