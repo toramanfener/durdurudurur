@@ -10,7 +10,6 @@ async def ratingsa(c:Client, m:Message):
     metin = """\n📝 **Küresel Oyuncu Sıralaması ** \n🏆 :
 
 """
-    list = ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12"]
     eklenen = 0
     puanlar = []
     for kisi in rating:
@@ -22,8 +21,5 @@ async def ratingsa(c:Client, m:Message):
                 metin += f"**{kisi}** : {puan}  Puan\n"
                 eklenen += 1
                 if eklenen == 20:
-                    for rating in range (1, 20):
-                         if puan == rating[kisi]:
-                            print(rating)
                     
     await c.send_message(m.chat.id, metin)
