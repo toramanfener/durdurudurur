@@ -24,3 +24,6 @@ async def ratingsa(c:Client, m:Message):
                    for metin in range (1,21):     
                        return       
 
+await c.send_message(m.chat.id, metin)
+
+
