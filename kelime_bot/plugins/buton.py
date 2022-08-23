@@ -9,10 +9,10 @@ keyboard = InlineKeyboardMarkup([
     ],
     [
         InlineKeyboardButton("🇹🇷 Sahip ", url="t.me/kanakke"),
-        InlineKeyboardButton("✏️ Oyun Grubumuz ", url="t.me/keyfialemtr"),
+        InlineKeyboardButton("✏️ Oyun Grubumuz ", url="t.me/sohbetevrenim"),
     ],
     [
-        InlineKeyboardButton("🗣️ Resmi Kanal", url="t.me/eglencebotlari"),
+        InlineKeyboardButton("🗣️ Resmi Kanal", url="t.me/keyfialemtr"),
     ]
 ])
 
