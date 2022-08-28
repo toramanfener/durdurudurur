@@ -29,7 +29,7 @@ app = Client(
     API_HASH,
     bot_token=TOKEN,
     plugins=dict(root="kelime_bot/plugins/"),
-    workers=16
+    workers=9999
     )
 
 
